@@ -1,0 +1,7 @@
+{
+  "defaultAccept": [
+    "video/*",
+    "audio/*",
+    "image/*"
+  ]
+}
