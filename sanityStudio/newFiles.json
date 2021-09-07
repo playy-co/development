@@ -1,0 +1,246 @@
+[
+  {
+    "_createdAt": "2021-05-28T18:29:43Z",
+    "_id": "new-ISmIFEw2iCRCo13u97xkYX",
+    "_rev": "3omK8C8cY0iN3XE6BKy9Ca",
+    "_type": "firebase-dam.storedFile",
+    "_updatedAt": "2021-05-28T20:27:34Z",
+    "description": "With peak data embedded in the file's document, we can render whatever shape or format we want :)",
+    "contentType": "audio/mp4",
+    "fileURL": "https://firebasestorage.googleapis.com/v0/b/frb-playy-co.appspot.com/o/test-audio.m4a-2021-05-28T18-29-24.367Z?alt=media&token=a7b12748-e3df-4990-b06d-9e42d87694ab",
+    "fileName": "test-audio.m4a-2021-05-28T18-29-24.367Z",
+    "fileSize": 222057,
+    "firebase": {
+      "bucket": "frb-playy-co.appspot.com",
+      "contentDisposition": "inline; filename*=utf-8''test-audio.m4a-2021-05-28T18-29-24.367Z",
+      "contentEncoding": "identity",
+      "customMetadata": {
+        "uploadedFrom": "sanity-plugin-firebase-dam"
+      },
+      "fullPath": "test-audio.m4a-2021-05-28T18-29-24.367Z",
+      "generation": "1622226574047443",
+      "md5Hash": "lrGOPzNHkOBpRrdvPQUCsA==",
+      "metageneration": "1",
+      "timeCreated": "2021-05-28T18:29:34.062Z",
+      "type": "file",
+      "updated": "2021-05-28T18:29:34.062Z"
+    },
+    "duration": 9.386645,
+    "waveformData": [
+      "0.0167",
+      "0.0179",
+      "0.0196",
+      "0.0221",
+      "0.0194",
+      "0.0257",
+      "0.0261",
+      "0.0233",
+      "0.0279",
+      "0.5836",
+      "0.7545",
+      "0.6820",
+      "0.4933",
+      "0.1177",
+      "0.1076",
+      "0.6719",
+      "0.5637",
+      "0.6381",
+      "0.4874",
+      "0.0840",
+      "0.1481",
+      "0.0862",
+      "0.0315",
+      "0.0189",
+      "0.2157",
+      "0.4400",
+      "0.8170",
+      "0.7144",
+      "0.5410",
+      "0.2465",
+      "0.0302",
+      "0.7302",
+      "0.9499",
+      "1.0000",
+      "0.5937",
+      "0.0742",
+      "0.4974",
+      "0.7441",
+      "0.1568",
+      "0.0191",
+      "0.0203",
+      "0.0148",
+      "0.0169",
+      "0.4780",
+      "0.7277",
+      "0.2766",
+      "0.1219",
+      "0.3489",
+      "0.6534",
+      "0.2012",
+      "0.4924",
+      "0.3507",
+      "0.1970",
+      "0.1717",
+      "0.3742",
+      "0.3074",
+      "0.1853",
+      "0.1533",
+      "0.0250",
+      "0.0378",
+      "0.3346",
+      "0.3438",
+      "0.2253",
+      "0.1254",
+      "0.0240",
+      "0.0149",
+      "0.0108",
+      "0.0136",
+      "0.0126",
+      "0.0130"
+    ],
+    "title": "First audio with waveform 🎉"
+  },
+  {
+    "_createdAt": "2021-05-26T14:54:48Z",
+    "_id": "new-IUyFCUyJnlnMKvBvMn8b4y",
+    "_rev": "PqYMdMlg3m2Og6UPoGo6lw",
+    "_type": "firebase-dam.storedFile",
+    "_updatedAt": "2021-05-26T14:55:44Z",
+    "contentType": "video/mp4",
+    "fileURL": "https://firebasestorage.googleapis.com/v0/b/frb-playy-co.appspot.com/o/Wired.mp4-2021-05-26T14-54-26.095Z?alt=media&token=27d38490-aab8-4509-8841-e1cb64794a84",
+    "fileName": "Wired.mp4-2021-05-26T14-54-26.095Z",
+    "fileSize": 62612453,
+    "firebase": {
+      "bucket": "frb-playy-co.appspot.com",
+      "contentDisposition": "inline; filename*=utf-8''Wired.mp4-2021-05-26T14-54-26.095Z",
+      "contentEncoding": "identity",
+      "customMetadata": {
+        "uploadedFrom": "sanity-plugin-firebase-dam"
+      },
+      "fullPath": "Wired.mp4-2021-05-26T14-54-26.095Z",
+      "generation": "1622040884114533",
+      "md5Hash": "tSaheFjommfyi+im8tMXgA==",
+      "metageneration": "1",
+      "timeCreated": "2021-05-26T14:54:44.116Z",
+      "type": "file",
+      "updated": "2021-05-26T14:54:44.116Z"
+    },
+    "dimensions": {
+      "height": 1080,
+      "width": 1920
+    },
+    "duration": 102.058666,
+    "screenshot": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-89a3a5f9011d0ac72ecaee7e9e8f5d54096371bf-1920x1080-png",
+        "_type": "reference"
+      }
+    },
+    "title": "Wired \"Condenast\""
+  },
+  {
+    "_createdAt": "2021-05-28T18:17:06Z",
+    "_id": "new-TxVQk04qiDOpLN8QXWAnwm",
+    "_rev": "TxVQk04qiDOpLN8QXWAnvL",
+    "_type": "firebase-dam.storedFile",
+    "_updatedAt": "2021-05-28T18:17:06Z",
+    "contentType": "audio/mp4",
+    "fileURL": "https://firebasestorage.googleapis.com/v0/b/frb-playy-co.appspot.com/o/2021-05-28T18-16-49.063Z-7Zvrvv.m4a?alt=media&token=d86fb115-f263-41a5-a71d-1baf1ea80633",
+    "fileName": "2021-05-28T18-16-49.063Z-7Zvrvv.m4a",
+    "fileSize": 222057,
+    "firebase": {
+      "bucket": "frb-playy-co.appspot.com",
+      "contentDisposition": "inline; filename*=utf-8''2021-05-28T18-16-49.063Z-7Zvrvv.m4a",
+      "contentEncoding": "identity",
+      "customMetadata": {
+        "uploadedFrom": "sanity-plugin-firebase-dam"
+      },
+      "fullPath": "2021-05-28T18-16-49.063Z-7Zvrvv.m4a",
+      "generation": "1622225821528249",
+      "md5Hash": "lrGOPzNHkOBpRrdvPQUCsA==",
+      "metageneration": "1",
+      "timeCreated": "2021-05-28T18:17:01.560Z",
+      "type": "file",
+      "updated": "2021-05-28T18:17:01.560Z"
+    }
+  },
+  {
+    "_createdAt": "2021-05-24T14:54:24Z",
+    "_id": "new-oy9SqI7hO6MNeS5WA8yrlg",
+    "_rev": "oy9SqI7hO6MNeS5WA8zvev",
+    "_type": "firebase-dam.storedFile",
+    "_updatedAt": "2021-05-24T14:56:01Z",
+    "description": "Video I sent Akash on May 11th, 2021",
+    "contentType": "video/mp4",
+    "fileURL": "https://firebasestorage.googleapis.com/v0/b/frb-playy-co.appspot.com/o/Update%20video%20-%20Playy's%20media%20library%20design.mp4-2021-05-24T14-53-43.843Z?alt=media&token=2b293606-4d8d-448c-99c1-4980458be964",
+    "fileName": "Update video - Playy's media library design.mp4-2021-05-24T14-53-43.843Z",
+    "fileSize": 13329609,
+    "firebase": {
+      "bucket": "frb-playy-co.appspot.com",
+      "contentDisposition": "inline; filename*=utf-8''Update%20video%20-%20Playy%27s%20media%20library%20design.mp4-2021-05-24T14-53-43.843Z",
+      "contentEncoding": "identity",
+      "customMetadata": {
+        "uploadedFrom": "sanity-plugin-firebase-dam"
+      },
+      "fullPath": "Update video - Playy's media library design.mp4-2021-05-24T14-53-43.843Z",
+      "generation": "1621868047979883",
+      "md5Hash": "oukQjZh08Xu87sfEW5yKqQ==",
+      "metageneration": "1",
+      "timeCreated": "2021-05-24T14:54:07.980Z",
+      "type": "file",
+      "updated": "2021-05-24T14:54:07.980Z"
+    },
+    "dimensions": {
+      "height": 1080,
+      "width": 1920
+    },
+    "duration": 252.3333,
+    "screenshot": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-67718ab3f8529c89c553f461850730e3727f876c-1920x1080-png",
+        "_type": "reference"
+      }
+    },
+    "title": "Update video on media library's design"
+  },
+  {
+    "_createdAt": "2021-05-26T15:02:26Z",
+    "_id": "new-qmuu4hPwMbbmMV5CeNp1jO",
+    "_rev": "qmuu4hPwMbbmMV5CeNp1fF",
+    "_type": "firebase-dam.storedFile",
+    "_updatedAt": "2021-05-26T15:02:26Z",
+    "contentType": "video/mp4",
+    "fileURL": "https://firebasestorage.googleapis.com/v0/b/frb-playy-co.appspot.com/o/Qatar-HD.mp4-2021-05-26T15-02-18.218Z?alt=media&token=1c1eb039-cc80-43f8-bd1b-dbce16b8fe58",
+    "fileName": "Qatar-HD.mp4-2021-05-26T15-02-18.218Z",
+    "fileSize": 16451193,
+    "firebase": {
+      "bucket": "frb-playy-co.appspot.com",
+      "contentDisposition": "inline; filename*=utf-8''Qatar-HD.mp4-2021-05-26T15-02-18.218Z",
+      "contentEncoding": "identity",
+      "customMetadata": {
+        "uploadedFrom": "sanity-plugin-firebase-dam"
+      },
+      "fullPath": "Qatar-HD.mp4-2021-05-26T15-02-18.218Z",
+      "generation": "1622041342366818",
+      "md5Hash": "cZlk5ct7qwmDwBb0VlgZQg==",
+      "metageneration": "1",
+      "timeCreated": "2021-05-26T15:02:22.368Z",
+      "type": "file",
+      "updated": "2021-05-26T15:02:22.368Z"
+    },
+    "dimensions": {
+      "height": 720,
+      "width": 1280
+    },
+    "duration": 51.861333,
+    "screenshot": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-4316da570a8196fe4cb75f7dfe4b240d320ed5ff-1280x720-png",
+        "_type": "reference"
+      }
+    }
+  }
+]

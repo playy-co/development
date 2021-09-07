@@ -13,7 +13,8 @@
     "@sanity/default-layout",
     "@sanity/default-login",
     "@sanity/desk-tool",
-    "firebase-dam"
+    "firebase-dam",
+    "s3-dam"
   ],
   "env": {
     "development": {

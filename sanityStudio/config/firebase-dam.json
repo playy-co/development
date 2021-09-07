@@ -1,7 +1,3 @@
 {
-  "defaultAccept": [
-    "video/*",
-    "audio/*",
-    "image/*"
-  ]
+  "toolTitle": "Firebase Media (old)"
 }
