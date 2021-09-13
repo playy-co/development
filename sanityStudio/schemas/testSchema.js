@@ -5,8 +5,8 @@ export default {
   fields: [
     {
       name: "video",
-      title: "Video",
-      type: "firebase.media",
+      title: "Video (Firebase)",
+      type: "firebase-dam.media",
       options: {
         accept: "video/*",
         storeOriginalFilename: true,
@@ -17,7 +17,7 @@ export default {
       title: "audio",
       description:
         "Doesn't store filename when uploading. Has a custom validation function that will error out to test validation.",
-      type: "firebase.media",
+      type: "firebase-dam.media",
       options: {
         accept: "audio/*",
         storeOriginalFilename: false,
@@ -33,7 +33,7 @@ export default {
     {
       name: "mp4",
       title: "mp4",
-      type: "firebase.media",
+      type: "firebase-dam.media",
       options: {
         accept: ".mp4",
       },
@@ -41,7 +41,7 @@ export default {
     {
       name: "m4a",
       title: "m4a",
-      type: "firebase.media",
+      type: "firebase-dam.media",
       options: {
         accept: ".m4a",
       },
